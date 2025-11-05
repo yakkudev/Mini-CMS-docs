@@ -1,5 +1,9 @@
 # Mini-CMS (EJS + Express)
 
+---
+> DOKUMENTACJA DOSTĘPNA W docs/
+---
+
 Lekki przykład aplikacji CMS zbudowany przy użyciu Node.js, Express i EJS.
 Pozwala na przeglądanie listy artykułów, podgląd pojedynczego artykułu oraz
 tworzenie nowych wpisów zapisywanych w pliku JSON (`/data/articles.json`).
