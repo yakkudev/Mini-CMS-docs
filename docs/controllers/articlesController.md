@@ -2,7 +2,7 @@
 # `articlesController`
 Moduł jest odpowiedzialny za zarządzanie zapytaniami HTTP związanymi z artykułami. Obsługuje operacje jak wyświetlanie listy artykułów, wyświetlanie pojedynczego artykułu, tworzenie nowego artykułu oraz renderowanie do formularza. Kontroler korzysta z serwisu [`articleService`](../services/articleService.md), który zapewnia interakcję z plikiem JSON.
 
-Zobacz też: [`articles (Route)`](../routes/articles.md), [`articleService`](../services/articleService/md).
+Zobacz też: [`articles (Route)`](../routes/articles.md), [`articleService`](../services/articleService.md).
 
 ## Eksporty
 `async function index(req, res)`
